@@ -1,0 +1,17 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\EM.Domain.Testes.deps.json
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\netstandard2.0\EM.Domain.Testes.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\netstandard2.0\EM.Domain.Testes.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\netstandard2.0\EM.Domain.Testes.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\netstandard2.0\EM.Domain.Testes.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\netstandard2.0\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\netstandard2.0\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\netstandard2.0\nunit.engine.core.dll

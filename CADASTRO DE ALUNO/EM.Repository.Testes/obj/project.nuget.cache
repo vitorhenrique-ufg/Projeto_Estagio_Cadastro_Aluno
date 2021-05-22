@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "rScqCbdwIMWKMpSrhRvaLLzoHsEkkzarj4HhvACXfqXFRuunbBvkGI5+wYBDwAMeGiijfUVtTy3BuStKAzJDOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository.Testes\\EM.Repository.Testes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\firebirdsql.data.firebirdclient\\7.5.0\\firebirdsql.data.firebirdclient.7.5.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\gherkin\\6.0.0\\gherkin.6.0.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\microsoft.codecoverage\\16.8.0\\microsoft.codecoverage.16.8.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\microsoft.net.test.sdk\\16.8.0\\microsoft.net.test.sdk.16.8.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\nunit\\3.11.0\\nunit.3.11.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\specflow\\3.5.5\\specflow.3.5.5.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\specflow.nunit\\3.5.5\\specflow.nunit.3.5.5.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.5.5\\specflow.tools.msbuild.generation.3.5.5.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\system.threading.tasks.extensions\\4.4.0\\system.threading.tasks.extensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\utf8json\\1.3.7\\utf8json.1.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}

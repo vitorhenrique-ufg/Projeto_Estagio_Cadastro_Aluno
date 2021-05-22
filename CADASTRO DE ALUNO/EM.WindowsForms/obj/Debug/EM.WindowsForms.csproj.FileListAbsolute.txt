@@ -1,0 +1,47 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.exe.config
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.exe
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.Form_Cadastro.resources
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.Properties.Resources.resources
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.GenerateResource.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.exe
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.exe.config
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.exe
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.Form_Cadastro.resources
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.Properties.Resources.resources
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.GenerateResource.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.exe
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.exe.config
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.exe
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.WindowsForms.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Repository.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\EM.Repository.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.Form_Cadastro.resources
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.Properties.Resources.resources
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.GenerateResource.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.exe
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\obj\Debug\EM.WindowsForms.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\AcoesUsuario.cs.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\AcoesUsuario.cs.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\itextsharp.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.WindowsForms\bin\Debug\itextsharp.xml

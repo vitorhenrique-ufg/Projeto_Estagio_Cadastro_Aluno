@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZsiY+7nMUeBO71Gm1+W53KJc1FH1c+Wv00CSdb0iy0Wrl2FJEadHZcG7ob7FEh2smXRHBDzrrjTrgFFnuW8TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\EM.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\firebirdsql.data.firebirdclient\\7.5.0\\firebirdsql.data.firebirdclient.7.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

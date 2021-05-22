@@ -1,0 +1,34 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.pdb
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.pdb
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfo.cs
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\bin\Debug\net48\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain\obj\Debug\net48\EM.Domain.csproj.CopyComplete

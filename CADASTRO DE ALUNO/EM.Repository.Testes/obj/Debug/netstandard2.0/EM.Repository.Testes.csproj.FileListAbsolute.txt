@@ -1,0 +1,14 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\bin\Debug\netstandard2.0\EM.Repository.Testes.deps.json
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\bin\Debug\netstandard2.0\EM.Repository.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\bin\Debug\netstandard2.0\EM.Repository.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\bin\Debug\netstandard2.0\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\bin\Debug\netstandard2.0\EM.Repository.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\bin\Debug\netstandard2.0\EM.Repository.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\bin\Debug\netstandard2.0\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\obj\Debug\netstandard2.0\EM.Repository.Testes.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\obj\Debug\netstandard2.0\EM.Repository.Testes.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\obj\Debug\netstandard2.0\EM.Repository.Testes.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\obj\Debug\netstandard2.0\EM.Repository.Testes.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\obj\Debug\netstandard2.0\EM.Repository.Testes.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\obj\Debug\netstandard2.0\EM.Repository.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository.Testes\obj\Debug\netstandard2.0\EM.Repository.Testes.pdb

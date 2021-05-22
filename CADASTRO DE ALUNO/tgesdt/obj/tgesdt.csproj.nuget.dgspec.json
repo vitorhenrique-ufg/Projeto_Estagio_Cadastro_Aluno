@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vitor\\Desktop\\2° - PROJETO\\CADASTRO DE ALUNO\\tgesdt\\tgesdt.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vitor\\Desktop\\2° - PROJETO\\CADASTRO DE ALUNO\\tgesdt\\tgesdt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\2° - PROJETO\\CADASTRO DE ALUNO\\tgesdt\\tgesdt.csproj",
+        "projectName": "tgesdt",
+        "projectPath": "C:\\Users\\vitor\\Desktop\\2° - PROJETO\\CADASTRO DE ALUNO\\tgesdt\\tgesdt.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\Desktop\\2° - PROJETO\\CADASTRO DE ALUNO\\tgesdt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.4.211, )"
+            },
+            "SpecRun.SpecFlow": {
+              "target": "Package",
+              "version": "[3.4.19, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

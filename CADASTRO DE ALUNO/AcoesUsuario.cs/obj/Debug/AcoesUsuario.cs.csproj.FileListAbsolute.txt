@@ -1,0 +1,12 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\bin\Debug\AcoesUsuario.cs.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\bin\Debug\AcoesUsuario.cs.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\bin\Debug\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\bin\Debug\EM.Repository.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\bin\Debug\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\bin\Debug\EM.Repository.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\obj\Debug\AcoesUsuario.cs.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\obj\Debug\AcoesUsuario.cs.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\obj\Debug\AcoesUsuario.cs.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\obj\Debug\AcoesUsuario.cs.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\AcoesUsuario.cs\obj\Debug\AcoesUsuario.cs.pdb

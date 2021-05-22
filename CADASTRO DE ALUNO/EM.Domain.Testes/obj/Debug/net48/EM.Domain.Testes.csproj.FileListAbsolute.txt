@@ -1,0 +1,145 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\BoDi.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Cucumber.Messages.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\FluentAssertions.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Gherkin.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.framework.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Utf8Json.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\BoDi.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Cucumber.Messages.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\FluentAssertions.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Gherkin.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.framework.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Utf8Json.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.pdb
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfo.cs
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CopyComplete
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.dll
+C:\Users\vitor\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\BoDi.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Cucumber.Messages.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\FluentAssertions.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Gherkin.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.framework.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Utf8Json.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\Desktop\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\BoDi.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Cucumber.Messages.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\FluentAssertions.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Gherkin.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\nunit.framework.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\TechTalk.SpecFlow.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\Utf8Json.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\obj\Debug\net48\EM.Domain.Testes.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\2° - PROJETO\CADASTRO DE ALUNO\EM.Domain.Testes\bin\Debug\net48\FirebirdSql.Data.FirebirdClient.dll

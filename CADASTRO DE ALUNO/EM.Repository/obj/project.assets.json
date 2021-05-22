@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "FirebirdSql.Data.FirebirdClient/7.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Transactions"
+        ],
+        "compile": {
+          "lib/net452/FirebirdSql.Data.FirebirdClient.dll": {}
+        },
+        "runtime": {
+          "lib/net452/FirebirdSql.Data.FirebirdClient.dll": {}
+        }
+      },
+      "EM.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "FirebirdSql.Data.FirebirdClient": "7.5.0"
+        },
+        "compile": {
+          "bin/placeholder/EM.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EM.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirebirdSql.Data.FirebirdClient/7.5.0": {
+      "sha512": "iWIrsXPM1q3PUBxMZIJl1JnwKuYtrEBXZYW5aa4mLtU4nxBAcY7FaGwUZwemSLfHm/wjDtOJvw7ragh/I9Joow==",
+      "type": "package",
+      "path": "firebirdsql.data.firebirdclient/7.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "firebirdsql.data.firebirdclient.7.5.0.nupkg.sha512",
+        "firebirdsql.data.firebirdclient.nuspec",
+        "lib/net452/FirebirdSql.Data.FirebirdClient.dll",
+        "lib/netstandard2.0/FirebirdSql.Data.FirebirdClient.dll",
+        "license.txt",
+        "readme.txt"
+      ]
+    },
+    "EM.Domain/1.0.0": {
+      "type": "project",
+      "path": "../EM.Domain/EM.Domain.csproj",
+      "msbuildProject": "../EM.Domain/EM.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "EM.Domain >= 1.0.0",
+      "FirebirdSql.Data.FirebirdClient >= 7.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\EM.Repository.csproj",
+      "projectName": "EM.Repository",
+      "projectPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\EM.Repository.csproj",
+      "packagesPath": "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DEV-ESTAGIO-03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\EM.Domain.csproj": {
+              "projectPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\EM.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "FirebirdSql.Data.FirebirdClient": {
+            "target": "Package",
+            "version": "[7.5.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

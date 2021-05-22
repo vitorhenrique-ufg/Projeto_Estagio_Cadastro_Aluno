@@ -1,0 +1,12 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\bin\Debug\netstandard2.0\EM.Repository.deps.json
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\bin\Debug\netstandard2.0\EM.Repository.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\bin\Debug\netstandard2.0\EM.Repository.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\bin\Debug\netstandard2.0\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\bin\Debug\netstandard2.0\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\obj\Debug\netstandard2.0\EM.Repository.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\obj\Debug\netstandard2.0\EM.Repository.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\obj\Debug\netstandard2.0\EM.Repository.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\obj\Debug\netstandard2.0\EM.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\obj\Debug\netstandard2.0\EM.Repository.csproj.CopyComplete
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\obj\Debug\netstandard2.0\EM.Repository.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Repository\obj\Debug\netstandard2.0\EM.Repository.pdb

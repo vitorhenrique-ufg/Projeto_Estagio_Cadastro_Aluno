@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\EM.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\EM.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\EM.Domain.csproj",
+        "projectName": "EM.Domain",
+        "projectPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\EM.Domain.csproj",
+        "packagesPath": "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DEV-ESTAGIO-03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "FirebirdSql.Data.FirebirdClient": {
+              "target": "Package",
+              "version": "[7.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\EM.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\EM.Repository.csproj",
+        "projectName": "EM.Repository",
+        "projectPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\EM.Repository.csproj",
+        "packagesPath": "C:\\Users\\DEV-ESTAGIO-03\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DEV-ESTAGIO-03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\EM.Domain.csproj": {
+                "projectPath": "C:\\Users\\DEV-ESTAGIO-03\\source\\repos\\2° - PROJETO\\CADASTRO DE ALUNO\\EM.Domain\\EM.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "FirebirdSql.Data.FirebirdClient": {
+              "target": "Package",
+              "version": "[7.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

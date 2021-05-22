@@ -1,0 +1,8 @@
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\bin\Debug\netstandard2.0\EM.Domain.deps.json
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\bin\Debug\netstandard2.0\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\bin\Debug\netstandard2.0\EM.Domain.pdb
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\netstandard2.0\EM.Domain.csprojAssemblyReference.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\netstandard2.0\EM.Domain.AssemblyInfoInputs.cache
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\netstandard2.0\EM.Domain.AssemblyInfo.cs
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\netstandard2.0\EM.Domain.dll
+C:\Users\DEV-ESTAGIO-03\source\repos\CADASTRO DE ALUNO\EM.Domain\obj\Debug\netstandard2.0\EM.Domain.pdb
